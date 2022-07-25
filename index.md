@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Minori Shimizu Portfolio
 
 You can use the [editor on GitHub](https://github.com/minori1010/minori1010.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
